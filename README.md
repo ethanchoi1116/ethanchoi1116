@@ -6,16 +6,16 @@ I am current master student at yonsei university & researcher at Yonsei Universi
 ### 🌱 Reserarch Interests
 
 * **Statistical Methodologies & Theories**
-- Bayesian Hierarchical Modeling
-- Bayesian Deep Learning
-- Mixture Modeling
+  - Bayesian Hierarchical Modeling
+  - Bayesian Deep Learning
+  - Mixture Modeling
 
 * **Application**
-- Marketing
-- Predictive Personalization
-- Location-Based Service
-- Public Health
-- Manufacturing
+  - Marketing
+  - Predictive Personalization
+  - Location-Based Service
+  - Public Health
+  - Manufacturing
 
 ### ⚡ Projects
 
