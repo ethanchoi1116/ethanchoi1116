@@ -19,12 +19,12 @@ I am current master student at Yonsei University, Department of Statistics and D
 
 ### ⚡ Projects
 
-- Improving Existing Map Application's Bus Duration Prediction Service
+- Improving Existing Map Application's Estimated Time of Bus Arrival
 - Lifestyle Index Development Using Mobile Communication Service Data & Public Data
 - Patient Injury Severity Index Development for Emergency Department
-- Patent Attorneys Association HR Data Analysis
+- HR Data Analysis
 - Development of Risk Evaluation of Heat & Cold Wave for Vulnerable Population (ongoing)
-- Building Healthcare Platform for Korea Veterans Health Service (ongoing)
+- Building Healthcare Platform (ongoing)
 
 ### 🔭 Languages 
 - Python (intermediate)
