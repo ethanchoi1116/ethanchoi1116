@@ -34,4 +34,4 @@ I am current master student at Yonsei University, Department of Statistics and D
 - SQL (beginner)
 
 ### 📫 How to reach me: 
-- email: deep.diver.csp@gmail.com
+- email: yschoi6307@gmail.com
