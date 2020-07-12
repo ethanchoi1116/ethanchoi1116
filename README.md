@@ -30,6 +30,7 @@ I am current master student at Yonsei University, Department of Statistics and D
 - Python (intermediate)
 - R (intermediate)
 - SAS (intermediate)
+- Latex (intermediate)
 - C++ (beginner)
 - SQL (beginner)
 
