@@ -7,15 +7,14 @@ I am current master student at Yonsei University, Department of Statistics and D
 
 * **Statistical Methodologies & Theories**
   - Bayesian Hierarchical Modeling
-  - Bayesian Deep Learning
   - Mixture Modeling
+  - Online Learning
 
 * **Application**
   - Marketing
   - Predictive Personalization
   - Location-Based Service
   - Public Health
-  - Manufacturing
 
 ### ⚡ Projects
 
