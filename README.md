@@ -11,8 +11,8 @@ I am current master student at Yonsei University, Department of Statistics and D
   - Online Learning
 
 * **Application**
-  - Marketing
   - Predictive Personalization
+  - Marketing
   - Location-Based Service
   - Public Health
 
