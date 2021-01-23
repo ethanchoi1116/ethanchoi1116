@@ -6,15 +6,13 @@ I am current master student at Yonsei University, Department of Statistics and D
 ### 🌱 Reserarch Interests
 
 * **Statistical Methodologies & Theories**
-  - Bayesian Hierarchical Modeling
-  - Mixture Modeling
-  - Online Learning
+  - Bayesian Learning
+  - Deep Learning Applications
+  - Dynamic Modeling
 
 * **Application**
+  - Learning Noisy Data
   - Predictive Personalization
-  - Marketing
-  - Location-Based Service
-  - Public Health
 
 ### ⚡ Projects
 
@@ -22,8 +20,7 @@ I am current master student at Yonsei University, Department of Statistics and D
 - Lifestyle Index Development Using Mobile Communication Service Data & Public Data
 - Patient Injury Severity Index Development for Emergency Department
 - HR Data Analysis
-- Development of Risk Evaluation of Heat & Cold Wave for Vulnerable Population (ongoing)
-- Building Healthcare Platform (ongoing)
+- Development of Risk Evaluation of Heat & Cold Wave for Vulnerable Population
 
 ### 🔭 Languages 
 - Python (intermediate)
