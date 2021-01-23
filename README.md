@@ -8,8 +8,8 @@ I am current master student at Yonsei University, Department of Statistics and D
 * **Methodologies & Theories**
   - Bayesian Learning
   - Deep Learning Applications
-  - Semi-supervised Learning
   - Dynamic Modeling
+  - Transfer Learning
 
 * **Application**
   - Learning Noisy Data
