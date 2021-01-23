@@ -8,6 +8,7 @@ I am current master student at Yonsei University, Department of Statistics and D
 * **Statistical Methodologies & Theories**
   - Bayesian Learning
   - Deep Learning Applications
+  - Unsupervised Learning
   - Dynamic Modeling
 
 * **Application**
