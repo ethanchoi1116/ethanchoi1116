@@ -6,10 +6,8 @@ I am current master student at Yonsei University, Department of Statistics and D
 ### 🌱 Reserarch Interests
 
 * **Methodologies & Theories**
-  - Bayesian Learning
-  - Deep Learning Applications
-  - Dynamic Modeling
-  - Transfer Learning
+  - Bayesian Statistics
+  - Deep Probabilistic Modeling
 
 * **Application**
   - Learning Noisy Data
