@@ -9,7 +9,7 @@ I am current master student at Yonsei University, Department of Statistics and D
   - Bayesian Statistics
   - Mixture Models
   - Neural Networks
-  - Time Series Data
+  - Time Series Analysis
 
 * **Application**
   - Learning Noisy Data
