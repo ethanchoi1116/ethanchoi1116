@@ -7,10 +7,13 @@ I am current master student at Yonsei University, Department of Statistics and D
 
 * **Methodologies & Theories**
   - Bayesian Statistics
-  - Deep Probabilistic Modeling
+  - Mixture Models
+  - Neural Networks
+  - Time Series Data
 
 * **Application**
   - Learning Noisy Data
+  - Sequential Analysis
   - Predictive Personalization
 
 ### ⚡ Projects
@@ -26,6 +29,7 @@ I am current master student at Yonsei University, Department of Statistics and D
 - R (intermediate)
 - SAS (intermediate)
 - Latex (intermediate)
+- Javascript (beginner)
 - C++ (beginner)
 - SQL (beginner)
 
