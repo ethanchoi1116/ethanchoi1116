@@ -25,13 +25,13 @@ I am current master student at Yonsei University, Department of Statistics and D
 - Development of Risk Evaluation of Heat & Cold Wave for Vulnerable Population
 
 ### 🔭 Languages 
-- Python (intermediate)
-- R (intermediate)
-- SAS (intermediate)
-- Latex (intermediate)
-- Javascript (beginner)
-- C++ (beginner)
-- SQL (beginner)
+- Python 
+- R
+- SAS 
+- Latex 
+- Javascript 
+- C++ 
+- SQL 
 
 ### 📫 How to reach me: 
 - email: yschoi6307@gmail.com
