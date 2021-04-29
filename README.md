@@ -1,7 +1,7 @@
 ### Yeonsoo, Choi -- @choiyeonsoo ✨
 
 👋 Hi! Welcom to my GitHub place.
-I am current master student at Yonsei University, Department of Statistics and Data Science & researcher at Yonsei University Data Science Lab / SNU Epidemiology Lab. 
+I am current master student at Yonsei University, Department of Statistics and Data Science & former chief researcher at Yonsei University Data Science Lab / SNU Epidemiology Lab. 
 
 ### 🌱 Interests
 
@@ -9,11 +9,10 @@ I am current master student at Yonsei University, Department of Statistics and D
   - Bayesian Statistics
   - Mixture Models
   - Neural Networks
-  - Time Series Analysis
 
 * **Application**
-  - Learning Noisy Data
-  - Sequential Analysis
+  - Learning from Noisy Data
+  - Sequential Learning 
   - Predictive Personalization
 
 ### ⚡ Projects
