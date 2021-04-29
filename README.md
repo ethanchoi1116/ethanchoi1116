@@ -3,7 +3,7 @@
 👋 Hi! Welcom to my GitHub place.
 I am current master student at Yonsei University, Department of Statistics and Data Science & researcher at Yonsei University Data Science Lab / SNU Epidemiology Lab. 
 
-### 🌱 Reserarch Interests
+### 🌱 Interests
 
 * **Methodologies & Theories**
   - Bayesian Statistics
