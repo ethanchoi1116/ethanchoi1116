@@ -7,11 +7,11 @@ I am current master student at Yonsei University, Department of Statistics and D
 
 * **Methodologies & Theories**
   - Bayesian Statistics
-  - Mixture Models
   - Neural Networks
 
 * **Application**
-  - Learning from Noisy Data
+  - Robust Inference
+  - Multimodal Learning
   - Sequential Learning 
   - Predictive Personalization
 
