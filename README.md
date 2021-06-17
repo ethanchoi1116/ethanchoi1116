@@ -21,7 +21,7 @@ I am current master student at Yonsei University, Department of Statistics and D
 - Lifestyle Index Development Using Mobile Communication Service Data & Public Data
 - Patient Injury Severity Index Development for Emergency Department
 - HR Data Analysis
-- Development of Risk Evaluation of Heat & Cold Wave for Vulnerable Population
+- Development of Impact Forecasting Technology Production for Heat and Cold-related Illnesses at the Local Government Level
 
 ### 🔭 Languages 
 - Python 
