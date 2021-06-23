@@ -10,7 +10,7 @@ I am current master student at Yonsei University, Department of Statistics and D
   - Neural Networks
 
 * **Application**
-  - Robust Estimation
+  - Robust Inference
   - Multimodal Learning
   - Sequential Learning 
   - Predictive Personalization
