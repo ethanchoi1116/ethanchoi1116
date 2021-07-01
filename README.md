@@ -6,11 +6,12 @@ I am current master student at Yonsei University, Department of Statistics and D
 ### 🌱 Interests
 
 * **Methodologies & Theories**
-  - Bayesian Machine Learning
-  - Probabilistic Deep Learning
+  - Bayesian Statistics
+  - Probabilistic Machine Learning
 
 * **Application**
   - Robust Inference
+  - Causal Inference
   - Multimodal Learning
   - Sequential Learning 
   - Predictive Personalization
