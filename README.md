@@ -1,7 +1,9 @@
 ### Yeonsoo, Choi -- @choiyeonsoo ✨
 
 👋 Hi! Welcom to my GitHub place.
-I am current master student at Yonsei University, Department of Statistics and Data Science & former chief researcher at Yonsei University Data Science Lab / SNU Epidemiology Lab. 
+
+Interested in Data Analysis & ML/DL.
+I am former chief researcher at Yonsei University Data Science Lab / SNU Epidemiology Lab. 
 
 ### 🌱 Interests
 
@@ -12,7 +14,6 @@ I am current master student at Yonsei University, Department of Statistics and D
 * **Application**
   - Robust Inference
   - Causal Inference
-  - Multimodal Learning
   - Sequential Learning 
   - Predictive Personalization
 
@@ -23,10 +24,11 @@ I am current master student at Yonsei University, Department of Statistics and D
 - Patient Injury Severity Index Development for Emergency Department
 - HR Data Analysis
 - Development of Impact Forecasting Technology Production for Heat and Cold-related Illnesses at the Local Government Level
+- etc...
 
 ### 🔭 Languages 
-- Python 
-- R
+- Python (Tensorflow, Pytorch, Sklearn)
+- R (caret, tidyverse, ggplot)
 - SAS 
 - Latex 
 - Javascript 
