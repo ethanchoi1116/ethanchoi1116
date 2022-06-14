@@ -27,7 +27,7 @@ I am former chief researcher at Yonsei University Data Science Lab / SNU Epidemi
 - etc...
 
 ### 🔭 Languages 
-- Python (Tensorflow, Pytorch, Sklearn)
+- Python (tensorflow, pytorch, sklearn)
 - R (caret, tidyverse, ggplot)
 - SAS 
 - Latex 
