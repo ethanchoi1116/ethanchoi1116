@@ -14,7 +14,7 @@ I am former chief researcher at Yonsei University Data Science Lab / SNU Epidemi
 * **Application**
   - Robust Inference
   - Causal Inference
-  - Sequential Learning 
+  - Online Learning 
   - Predictive Personalization
 
 ### ⚡ Projects
