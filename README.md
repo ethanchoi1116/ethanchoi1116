@@ -2,8 +2,7 @@
 
 👋 Hi! Welcom to my GitHub place.
 
-Interested in Data Analysis & ML/DL.
-I am former chief researcher at Yonsei University Data Science Lab / SNU Epidemiology Lab. 
+I'm a data analyst love to create solutions for complex problems through data and products.
 
 ### 🌱 Interests
 
@@ -12,7 +11,6 @@ I am former chief researcher at Yonsei University Data Science Lab / SNU Epidemi
   - Probabilistic Machine Learning
 
 * **Application**
-  - Robust Inference
   - Causal Inference
   - Online Learning 
   - Predictive Personalization
